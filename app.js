@@ -37,9 +37,9 @@ btn.textContent = "LOGIN";
 btn.style.width = "5rem";
 btn.style.border = "none";
 
-const main = (document.getElementById(
-  "projects"
-).style.fontFamily = "VT323, monospace");
+const main = document.getElementById("projects");
+projects.style.fontFamily = "VT323, monospace";
+projects.style.fontSize="1.5rem";
 
 const h3 = document
   .getElementById("projects")
